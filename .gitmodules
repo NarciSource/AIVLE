@@ -1,0 +1,33 @@
+[submodule "mp1-1"]
+	path = mp1-1
+	url = https://github.com/NarciSource/Aivle--MiniProject-1-1
+[submodule "mp1-2"]
+	path = mp1-2
+	url = https://github.com/NarciSource/Aivle--MiniProject-1-2
+[submodule "mp2-1"]
+	path = mp2-1
+	url = https://github.com/NarciSource/Aivle--MiniProject-2-1
+[submodule "mp3"]
+	path = mp3
+	url = https://github.com/NarciSource/Aivle--MiniProject-3
+[submodule "mp4-1"]
+	path = mp4-1
+	url = https://github.com/NarciSource/Aivle--MiniProject-4-1
+[submodule "mp4-2"]
+	path = mp4-2
+	url = https://github.com/NarciSource/Aivle--MiniProject-4-2
+[submodule "mp5-1"]
+	path = mp5-1
+	url = https://github.com/NarciSource/Aivle--MiniProject-5-1
+[submodule "mp5-2"]
+	path = mp5-2
+	url = https://github.com/NarciSource/Aivle--MiniProject-5-2
+[submodule "mp6-2"]
+	path = mp6-2
+	url = https://github.com/NarciSource/Aivle--MiniProject-6-1
+[submodule "mp7"]
+	path = mp7
+	url = https://github.com/Aivle4th-team3/Miniproject-7
+[submodule "Big-Project/Aplus-EDU"]
+	path = Big-Project/Aplus-EDU
+	url = https://github.com/Aivle4th-team3/Aplus-EDU
