@@ -22,12 +22,18 @@
 [submodule "mp5-2"]
 	path = mp5-2
 	url = https://github.com/NarciSource/Aivle--MiniProject-5-2
+[submodule "mp6-1"]
+	path = mp6-1
+	url = https://github.com/NarciSource/Aivle--MiniProject-6-1
 [submodule "mp6-2"]
 	path = mp6-2
-	url = https://github.com/NarciSource/Aivle--MiniProject-6-1
+	url = https://github.com/NarciSource/Aivle--MiniProject-6-2
 [submodule "mp7"]
 	path = mp7
 	url = https://github.com/Aivle4th-team3/Miniproject-7
 [submodule "Big-Project/Aplus-EDU"]
 	path = Big-Project/Aplus-EDU
 	url = https://github.com/Aivle4th-team3/Aplus-EDU
+[submodule "Big-Project/Student-AI-Package"]
+	path = Big-Project/Student-AI-Package
+	url = https://github.com/Aivle4th-team3/Student-AI-Package
